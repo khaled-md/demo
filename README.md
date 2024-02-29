@@ -3,4 +3,4 @@ this is my first git repository
 
 author - Mohammad Khalid
 
-chaneged
+chaneged by khalid for for first 
